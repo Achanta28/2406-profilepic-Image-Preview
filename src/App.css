@@ -1,0 +1,48 @@
+.App {
+  text-align: center;
+}
+
+.form{
+  display: inline-block;
+  background-color: bisque;
+  padding: 50px;
+  padding-top: 50px;
+}
+
+.formDiv{
+  margin: 20px;
+}
+
+.formLabel{
+  display: inline-block;
+  width: 80px;
+  text-align: left;
+}
+.formLabel1{
+  display: inline-block;
+  width: 80px;
+  text-align: left;
+  margin-left: 80px;
+}
+a{
+  font-size: 2rem;
+  text-decoration: hotpink;
+}
+nav{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+  background-color: aqua;
+}
+span{
+  display: inline-block;
+  width: 75px;
+  text-align: left;
+  margin-left: 20px;
+ 
+}
+.pic{
+  width: 300px;
+  height: 350px;
+  border: 2px solid black;
+}
